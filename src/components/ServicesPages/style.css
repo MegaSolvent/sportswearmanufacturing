@@ -1,0 +1,727 @@
+.Breathable:hover {
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 1px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+}
+
+.Breathable {
+    /* border: none; */
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(26, 25, 25);
+    border-radius: 1px;
+    border: 2px solid rgb(44, 44, 44);
+    text-transform: uppercase;
+}
+
+button.begin-btn {
+    border: none;
+    background-color: #0b0b0b00;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 1px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+button.begin-btn:hover {
+    border: none;
+    background-color: #ffffff00;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+    border-radius: 1px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+button.begin-btn {
+    border: none;
+    background-color: #0b0b0b00;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 1px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+button.begin-btn:hover {
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+    border-radius: 1px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+button.Eqval-btn.btn.btn-outline-light {
+    margin-left: 25px;
+}
+
+h2.besthunting {
+    font-size: 38px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+    padding-top: 40px;
+
+}
+h1.Yoga-title {
+    color: white;
+    font-size: 42px;
+    font-weight: 700;
+}
+p.yoga-desc {
+    color: white;
+    padding-left: 13rem;
+    padding-right: 13rem;
+}
+.Yogawear {
+    margin-top: 11rem;
+}
+p.yogacloth {
+    color: black;
+}
+h1.fw-bold.mb-3.display-5 {
+    margin-left: 30px;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 34px;
+}
+
+section.upersectiontop.bg-light {
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.uppersection {
+    float: right;
+    width: 65%;
+    margin-top: -17rem;
+    z-index: 9;
+    color: white;
+    background-color: #0c0c0cbf;
+    padding: 30px;
+    position: relative;
+}
+
+.uppersection svg {
+    font-size: 42px;
+    background-color: #5458f7;
+    border-radius: 36px;
+    padding: 5px;
+    margin-bottom: 23px;
+}
+
+p.textour {
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+section.cta-section.bg-dark.text-white.py-5 {
+    margin-top: 100px;
+}
+
+h2.Customhunting {
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p.outdoor {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-left: 145px;
+    padding-right: 145px;
+    color: gray;
+}
+
+button.px-4.py-2.fw-semibold.btn.btn-light.btn-lg {
+    background-color: #f44900;
+}
+
+button.px-4.py-2.fw-semibold.btn.btn-light.btn-lg :hover {
+    background-color: rgb(12, 78, 245);
+}
+
+.position-relative.col-md-6 {
+    padding-right: 4rem;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+    width: 100%;
+}
+
+/* 4th section  */
+/* ---- SHOW 2 IMAGES IN DESKTOP ---- */
+
+.cutandsew h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.cutandsew {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+h1.sweat-title {
+    color: white;
+}
+p.sweat-desc {
+    color: white;
+    padding-left: 13rem;
+    padding-right: 13rem;
+}
+.privatelabling {
+    padding-right: 50px;
+}
+
+.privatelabling h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.privatelabeling {
+    margin-top: 100px;
+}
+
+/* sweatsuit  */
+
+li.custom.list-group-item {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 28px;
+    border: none;
+}
+
+li.printingg.list-group-item {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: gray;
+    line-height: 28px;
+    padding: 10px;
+    border: none;
+}
+
+.customjeake {
+    padding-bottom: 20px;
+}
+
+/* crousel section images  */
+/* Desktop = show 2 images */
+.carousel-images {
+    display: flex;
+    gap: 10px;
+}
+
+.carousel-images img {
+    width: 50%;
+    /* height: 100vh;      2 images side by side */
+    border-radius: 10px;
+}
+.advanved {
+    margin-top: 75px;
+}
+.sweatsuit {
+    padding-top: 8rem;
+}
+.sweatset {
+    margin-top: 40px;
+}
+.golfapp {
+    margin-top: 50px;
+}
+.text-center-yoga {
+    text-align: center !important;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0rem;
+}
+.tenis-section {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+}
+.last-gym {
+    margin-top: 90px;
+}
+.yogawearss {
+    margin-top: 76px;
+}
+/* Mobile = show only responsive*/
+@media (max-width: 576px) {
+    .uppersection {
+        float: right;
+        width: 88%;
+        margin-top: -6rem;
+        z-index: 9;
+        color: white;
+        background-color: #0c0c0cbf;
+        padding: 18px;
+        position: relative;
+    }
+
+    p.textour {
+        font-size: 14px;
+    }
+
+    .lead {
+        font-size: 16px;
+        font-weight: 400;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: 24px;
+    }
+
+    .huntingapparel {
+        height: 300px !important;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        display: flex;
+        margin-top: 100px !important;
+        align-items: center;
+        text-align: left;
+    }
+
+    h1.fw-bold.mb-3.display-5 {
+        width: 100%;
+        text-transform: uppercase;
+        font-family: sans-serif;
+        font-size: 32px;
+        text-align: center;
+        margin-left: 0px;
+    }
+p.sweat-desc {
+    color: white;
+    padding-left: 0rem !important; 
+     padding-right: 0rem !important;
+}
+h1.Yoga-title {
+    font-size: 30px;
+}
+p.yoga-desc {
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.Yogawear {
+    margin-top: 3rem;
+}
+.yogawearss {
+    margin-top: -27px;
+}
+    .Breathable {
+        border-radius: 0px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+        padding-bottom: 6px;
+        padding-top: 6px;
+        padding-left: 10px;
+        padding-right: 10px;
+        color: rgb(26, 25, 25);
+        border: 1px solid rgb(71, 71, 70);
+
+    }
+
+    .Brand-btn {
+        border-radius: 0px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+        padding-bottom: 6px;
+        padding-top: 6px;
+        padding-left: 10px;
+        padding-right: 10px;
+        color: rgb(26, 25, 25);
+        border: 1px solid rgb(253, 86, 3);
+
+    }
+.position-relative.col-md-6 {
+    padding-right: 0px;
+}
+    .Brand-btn:hover {
+        border-radius: 0px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+        padding-bottom: 6px;
+        padding-top: 6px;
+        padding-left: 10px;
+        background-color: black;
+        padding-right: 10px;
+        color: rgb(255, 255, 255);
+        border: 1px solid rgb(253, 86, 3);
+
+    }
+
+    .container.carouselsec {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    p.Golf-desc {
+        font-size: 15px !important;
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }
+ p.Gym-desc {
+        font-size: 17px !important;
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }
+    p.Tanis-desc {
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    padding-right: 0rem !important;
+    padding-left: 0px !important;
+}
+    .sublimation {
+        margin-top: 4rem !important;
+    }
+    .sweatsuit {
+        margin-top: -5rem !important;
+    }
+     .Tenis {
+        margin-top: 4rem !important;
+    }
+.Gymwear
+ {
+    margin-top: 6rem !important;
+}
+.last-gym {
+    margin-top: 50px;
+}
+    h1.Golf-Polo {
+        font-size: 16px !important;
+        line-height: 28px !important;
+        font-weight: 700 !important;
+    }
+  h1.Gym-Polo {
+        font-size: 22px !important;
+        line-height: 28px !important;
+        font-weight: 700 !important;
+    }
+      h1.Tenis-title {
+        font-size: 22px !important;
+        line-height: 28px !important;
+        font-weight: 700 !important;
+    }
+    .hero-section {
+        height: 60vh !important;
+    }
+
+    h2.besthunting {
+        font-size: 24px;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding-bottom: 30px;
+        padding-top: 50px;
+    }
+
+    h1.last-title {
+        font-size: 22px !important;
+        line-height: 30px !important;
+        margin-top: 40px !important;
+    }
+
+    .mt-4.mt-md-0.col-md-6 {
+        padding: 18px !important;
+    }
+
+    
+
+    section.hero-section.d-flex.align-items-center.text-center.bg-light {
+        height: 48vh;
+    }
+
+    p.outdoor {
+        font-size: 16px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    p.lead.mb-4 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.tenis-section {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+}
+}
+
+@media (max-width: 768px) {
+    .carousel-images img {
+        width: 100%;
+    }
+
+    h2.Customhunting {
+        font-size: 28px;
+    }
+
+    section.upersectiontop.bg-light {
+        padding-top: 100px;
+        padding-bottom: 35px;
+    }
+
+
+
+}
+
+
+.Brand-btn {
+    border-radius: 0px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(26, 25, 25);
+    border: 1px solid rgb(253, 86, 3);
+}
+
+.Brand-btn:hover {
+    border-radius: 0px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    background-color: black;
+    text-transform: uppercase;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(253, 86, 3);
+}
+
+.efficent-btn {
+    background: linear-gradient(135deg, #5458f7 50%, #ff7007 50%);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 8px;
+    border-bottom: 4px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    text-transform: uppercase;
+}
+
+.text-success {
+    --bs-text-opacity: 1;
+    color: rgb(255 112 7) !important;
+}
+
+h3.fw-bold.mb-3 {
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.container.carouselsec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.mt-4.mt-md-0.col-md-6 {
+    padding: 40px;
+}
+
+p.trusted {
+    font-size: 18px;
+    width: 80%;
+    color: gray;
+}
+
+h2.display-6.fw-bold.mb-3 {
+    color: black;
+}
+
+p.lead.mb-4 {
+    color: black;
+    font-size: 18px;
+    width: 100%;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.hero-section {
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sweat-section {
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1.Golf-Polo {
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+h1.Gym-Polo {
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 50px;
+    width: 100%;
+    text-align: center;
+}
+h1.Tenis-title {
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 50px;
+    width: 100%;
+    text-align: center;
+}
+p.Golf-desc {
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+p.Gym-desc {
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+p.Tanis-desc {
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+.sublimation {
+    margin-top: 10rem;
+}
+.Tenis {
+    margin-top: 10rem;
+}
+.Gymwear {
+    margin-top: 10rem;
+}
+.last-section {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+}
+
+h1.last-title {
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 50px;
+    margin-top: 50px;
+}

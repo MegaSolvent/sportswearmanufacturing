@@ -1,0 +1,47 @@
+.yoga-section {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 54vh;
+}
+    .yogaapparel {
+        height: 400px;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        display: flex;
+        margin-top: 100px !important;
+        align-items: center;
+        text-align: left;
+    }
+    h1.last-title {
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 50px;
+    margin-top: 30px;
+}
+p.carefully {
+    color: white;
+    width: 80%;
+}
+@media (max-width: 576px) {
+    .sublimation {
+        margin-top: 2rem !important;
+    }
+        h1.fw-bold.mb-3.display-5 {
+        font-size: 28px;
+    }
+        .yogaapparel {
+        height: 300px !important;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        display: flex;
+        margin-top: 100px;
+        align-items: center;
+        text-align: left;
+    }
+}
