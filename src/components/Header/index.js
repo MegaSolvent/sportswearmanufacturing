@@ -72,7 +72,7 @@ import Logo from "../../Images/logo.jpg";
             <nav className={`nav ${isMenuOpen ? 'nav-open' : ''}`}>
               <ul className="nav-list">
                 <li className="nav-item">
-                  <a href="/" className="nav-link" onClick={closeMenu}>
+                  <a href="#" className="nav-link" onClick={closeMenu}>
                     Home
                   </a>
                 </li>
@@ -86,21 +86,21 @@ import Logo from "../../Images/logo.jpg";
 
         <Dropdown.Menu>
 
-          <Dropdown.Item href="/tennisclothingmanufacturer">Tennis Clothing Manufacturer</Dropdown.Item>
+          <Dropdown.Item href="#tennisclothingmanufacturer">Tennis Clothing Manufacturer</Dropdown.Item>
           <Dropdown.Divider />
 
-          <Dropdown.Item href="/golfapparelmanufacturer">Golf Apparel Manufacturer</Dropdown.Item>
+          <Dropdown.Item href="#golfapparelmanufacturer">Golf Apparel Manufacturer</Dropdown.Item>
           <Dropdown.Divider />
        
-          <Dropdown.Item href="/sweatsuitmanufacturer">Sweat Suit Manufacturer</Dropdown.Item>
+          <Dropdown.Item href="#sweatsuitmanufacturer">Sweat Suit Manufacturer</Dropdown.Item>
           <Dropdown.Divider />
 
-          <Dropdown.Item href="/gymclothingmanufacturer">Gym Clothing Manufacturer</Dropdown.Item>
+          <Dropdown.Item href="#gymclothingmanufacturer">Gym Clothing Manufacturer</Dropdown.Item>
           <Dropdown.Divider />
-          <Dropdown.Item href="/Cyclingclothingmanufacturers">Cycling Clothing Manufacturers</Dropdown.Item>
+          <Dropdown.Item href="#Cyclingclothingmanufacturers">Cycling Clothing Manufacturers</Dropdown.Item>
           <Dropdown.Divider />
 
-          <Dropdown.Item href="/Yogawearmanufacturer">Yoga Wear Manufacturer</Dropdown.Item>
+          <Dropdown.Item href="#Yogawearmanufacturer">Yoga Wear Manufacturer</Dropdown.Item>
           <Dropdown.Divider />
 
         </Dropdown.Menu>
@@ -126,7 +126,7 @@ import Logo from "../../Images/logo.jpg";
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a href="/contact" className="nav-link" onClick={closeMenu}>
+                  <a href="#" className="nav-link" onClick={closeMenu}>
                     Contact
                   </a>
                 </li>

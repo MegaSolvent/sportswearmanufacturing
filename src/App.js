@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from '../src/components/Home/index';
 import Footer from '../src/components/Footer';
 import Header from '../src/components/Header';
@@ -14,7 +14,7 @@ import Cyclingclothingmanufacturers from '../src/components/ServicesPages/Cyclin
 function App() {
  
   return (
-    <BrowserRouter basename="/sportswearmanufacturing">
+    <HashRouter>
       <Header />
     <Routes>
       <Route path="/" element={<Home />} />
@@ -28,7 +28,7 @@ function App() {
 
     </Routes>
     <Footer/>
-  </BrowserRouter>
+  </HashRouter>
   );
 }
 
