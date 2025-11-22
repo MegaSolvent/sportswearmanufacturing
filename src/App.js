@@ -14,7 +14,7 @@ import Cyclingclothingmanufacturers from '../src/components/ServicesPages/Cyclin
 function App() {
  
   return (
-    <BrowserRouter >
+    <BrowserRouter basename="/sportswearmanufacturing">
       <Header />
     <Routes>
       <Route path="/" element={<Home />} />
