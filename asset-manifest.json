@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sportswearmanufacturing/static/css/main.d509fe6e.css",
-    "main.js": "/sportswearmanufacturing/static/js/main.3fd24984.js",
+    "main.css": "/sportswearmanufacturing/static/css/main.792dc8bd.css",
+    "main.js": "/sportswearmanufacturing/static/js/main.608644d3.js",
     "static/js/453.8c8916f0.chunk.js": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js",
     "static/media/cycling4.png": "/sportswearmanufacturing/static/media/cycling4.6d02a68f59f00af534af.png",
     "static/media/banner.jpg": "/sportswearmanufacturing/static/media/banner.9167798f554476482442.jpg",
@@ -51,12 +51,12 @@
     "static/media/polo.jpg": "/sportswearmanufacturing/static/media/polo.0d9ac2b07fdaa803dbb6.jpg",
     "static/media/gym-costume.jpg": "/sportswearmanufacturing/static/media/gym-costume.561bbd315939c9b7942b.jpg",
     "index.html": "/sportswearmanufacturing/index.html",
-    "main.d509fe6e.css.map": "/sportswearmanufacturing/static/css/main.d509fe6e.css.map",
-    "main.3fd24984.js.map": "/sportswearmanufacturing/static/js/main.3fd24984.js.map",
+    "main.792dc8bd.css.map": "/sportswearmanufacturing/static/css/main.792dc8bd.css.map",
+    "main.608644d3.js.map": "/sportswearmanufacturing/static/js/main.608644d3.js.map",
     "453.8c8916f0.chunk.js.map": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d509fe6e.css",
-    "static/js/main.3fd24984.js"
+    "static/css/main.792dc8bd.css",
+    "static/js/main.608644d3.js"
   ]
 }
