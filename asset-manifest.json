@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sportswearmanufacturing/static/css/main.f2ad1e2a.css",
-    "main.js": "/sportswearmanufacturing/static/js/main.4532aae2.js",
+    "main.css": "/sportswearmanufacturing/static/css/main.bd6f1aed.css",
+    "main.js": "/sportswearmanufacturing/static/js/main.c7e235c0.js",
     "static/js/453.8c8916f0.chunk.js": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js",
     "static/media/Choose-the-Most-Productive-Baseball-Clothing-Manufacturer.jpg": "/sportswearmanufacturing/static/media/Choose-the-Most-Productive-Baseball-Clothing-Manufacturer.e91c2de2737a9a0160f4.jpg",
     "static/media/banner.jpg": "/sportswearmanufacturing/static/media/banner.092bff4035cbf58748de.jpg",
@@ -12,10 +12,13 @@
     "static/media/about-us.jpg": "/sportswearmanufacturing/static/media/about-us.ff482be26441522fb22c.jpg",
     "static/media/Seamless-&-Sustainable-Underwear-Production.jpg": "/sportswearmanufacturing/static/media/Seamless-&-Sustainable-Underwear-Production.590b410e4d6cb23c25fb.jpg",
     "static/media/Golf-Polo-Shirt-Manufacturer-with-Promising-Customer-Services.jpg": "/sportswearmanufacturing/static/media/Golf-Polo-Shirt-Manufacturer-with-Promising-Customer-Services.4883448a288d7d52fa5b.jpg",
+    "static/media/Combine-Innovation-with-Performance.jpg": "/sportswearmanufacturing/static/media/Combine-Innovation-with-Performance.d0eb91a2ee0d7234c2c5.jpg",
     "static/media/Choose-Us-to-Build-a-Strong-Clothing-Line.jpg": "/sportswearmanufacturing/static/media/Choose-Us-to-Build-a-Strong-Clothing-Line.e9998396a5e54eedae93.jpg",
     "static/media/55.jpg": "/sportswearmanufacturing/static/media/55.13ffc09e71a63c0c0061.jpg",
     "static/media/Premium-Cycling-Wear-Smooth-and-Comfortable-Ride.jpg": "/sportswearmanufacturing/static/media/Premium-Cycling-Wear-Smooth-and-Comfortable-Ride.1af3de2bd611338f37c5.jpg",
     "static/media/Unlimited-Customization-Options3.jpg": "/sportswearmanufacturing/static/media/Unlimited-Customization-Options3.58d28f67a99af9086428.jpg",
+    "static/media/bannew.jpg": "/sportswearmanufacturing/static/media/bannew.6f2254454a292d0f4d8a.jpg",
+    "static/media/Custom-fishing-Shirts-That-Are-Built-to-Last.jpg": "/sportswearmanufacturing/static/media/Custom-fishing-Shirts-That-Are-Built-to-Last.b6208a64ec3531b45993.jpg",
     "static/media/BANNER.jpg": "/sportswearmanufacturing/static/media/BANNER.a2a4d86c1d4bf0d78d7d.jpg",
     "static/media/1st.jpg": "/sportswearmanufacturing/static/media/1st.f1997cf8abc01e7bd301.jpg",
     "static/media/Premium-Customization-and-Printing-Options1.jpg": "/sportswearmanufacturing/static/media/Premium-Customization-and-Printing-Options1.ae6575964c4b83e04d47.jpg",
@@ -28,6 +31,7 @@
     "static/media/Custom-Men’s-&-Women’s-Underwear.jpg": "/sportswearmanufacturing/static/media/Custom-Men’s-&-Women’s-Underwear.32674ee52f1b67c0e978.jpg",
     "static/media/Unlimited-Customization-Options1.jpg": "/sportswearmanufacturing/static/media/Unlimited-Customization-Options1.7155565ebd1412a1a90d.jpg",
     "static/media/Custom-Sportswear.jpg": "/sportswearmanufacturing/static/media/Custom-Sportswear.d8992087d8b086e7aab0.jpg",
+    "static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options1.jpg": "/sportswearmanufacturing/static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options1.0f6c36d7c5c05ce658de.jpg",
     "static/media/Ultimate-Customization-and-First-Class-Fabrics2.jpg": "/sportswearmanufacturing/static/media/Ultimate-Customization-and-First-Class-Fabrics2.41268985362108c8e750.jpg",
     "static/media/Premium-Customization-and-Printing-Options13.jpg": "/sportswearmanufacturing/static/media/Premium-Customization-and-Printing-Options13.6aac16241acae4860b2d.jpg",
     "static/media/Advanced-Printing.jpg": "/sportswearmanufacturing/static/media/Advanced-Printing.3d866541014d8a681804.jpg",
@@ -38,8 +42,10 @@
     "static/media/1st-section.jpg": "/sportswearmanufacturing/static/media/1st-section.4363be2bc222d5b0767d.jpg",
     "static/media/Premium-Customization-and-Printing-Options14.jpg": "/sportswearmanufacturing/static/media/Premium-Customization-and-Printing-Options14.7996dcbbc20e8af651b5.jpg",
     "static/media/Gym-Appare.jpg": "/sportswearmanufacturing/static/media/Gym-Appare.e96b2472a35b318c5703.jpg",
+    "static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options4.jpg": "/sportswearmanufacturing/static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options4.934fc0951afdede02b43.jpg",
     "static/media/22.jpg": "/sportswearmanufacturing/static/media/22.ba27cd1dbdce05c75394.jpg",
     "static/media/Ultimate-Customization-and-First-Class-Fabrics.jpg": "/sportswearmanufacturing/static/media/Ultimate-Customization-and-First-Class-Fabrics.0ca8ae76f8cfce077374.jpg",
+    "static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options2.jpg": "/sportswearmanufacturing/static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options2.06c864bfe1e69a0f9b5a.jpg",
     "static/media/Custom-Hoodie-Manufacturing-for-Your-Product-Line.jpg": "/sportswearmanufacturing/static/media/Custom-Hoodie-Manufacturing-for-Your-Product-Line.49390febab0a9eada81e.jpg",
     "static/media/Unlimited-Customization-Options2.jpg": "/sportswearmanufacturing/static/media/Unlimited-Customization-Options2.99ffdf7c899dacea7c4e.jpg",
     "static/media/555.jpg": "/sportswearmanufacturing/static/media/555.197557aec483bc987dd9.jpg",
@@ -49,6 +55,7 @@
     "static/media/Private Label Golf Apparel Factory for Your Brand Identity0.jpg": "/sportswearmanufacturing/static/media/Private Label Golf Apparel Factory for Your Brand Identity0.4cbbfca642077611e0aa.jpg",
     "static/media/Private Label Golf Apparel Factory for Your Brand Identity..jpg": "/sportswearmanufacturing/static/media/Private Label Golf Apparel Factory for Your Brand Identity..e5c88159b96158c7cf72.jpg",
     "static/media/yoga-label.jpg": "/sportswearmanufacturing/static/media/yoga-label.dca411ff03253569c4f6.jpg",
+    "static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options3.jpg": "/sportswearmanufacturing/static/media/Best-Fishing-Apparel-Factory-Offers-Advanced-Printing-Options3.9433e885eb5a96ed561c.jpg",
     "static/media/Private-Label-Pajamas-and-OEM-Solutions3.jpg": "/sportswearmanufacturing/static/media/Private-Label-Pajamas-and-OEM-Solutions3.52b48ef5573f6958c937.jpg",
     "static/media/Custom-Baseball-Clothing-Perfect-for-Your-Brand.jpg": "/sportswearmanufacturing/static/media/Custom-Baseball-Clothing-Perfect-for-Your-Brand.a6507aaeaeed7dd4409b.jpg",
     "static/media/Private-Label1.jpg": "/sportswearmanufacturing/static/media/Private-Label1.54556399acdda8397b73.jpg",
@@ -110,12 +117,12 @@
     "static/media/slick.ttf": "/sportswearmanufacturing/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/sportswearmanufacturing/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sportswearmanufacturing/index.html",
-    "main.f2ad1e2a.css.map": "/sportswearmanufacturing/static/css/main.f2ad1e2a.css.map",
-    "main.4532aae2.js.map": "/sportswearmanufacturing/static/js/main.4532aae2.js.map",
+    "main.bd6f1aed.css.map": "/sportswearmanufacturing/static/css/main.bd6f1aed.css.map",
+    "main.c7e235c0.js.map": "/sportswearmanufacturing/static/js/main.c7e235c0.js.map",
     "453.8c8916f0.chunk.js.map": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ad1e2a.css",
-    "static/js/main.4532aae2.js"
+    "static/css/main.bd6f1aed.css",
+    "static/js/main.c7e235c0.js"
   ]
 }
