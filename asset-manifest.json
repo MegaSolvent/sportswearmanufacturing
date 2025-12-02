@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sportswearmanufacturing/static/css/main.bd6f1aed.css",
+    "main.css": "/sportswearmanufacturing/static/css/main.6437b4d3.css",
     "main.js": "/sportswearmanufacturing/static/js/main.c7e235c0.js",
     "static/js/453.8c8916f0.chunk.js": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js",
     "static/media/Choose-the-Most-Productive-Baseball-Clothing-Manufacturer.jpg": "/sportswearmanufacturing/static/media/Choose-the-Most-Productive-Baseball-Clothing-Manufacturer.e91c2de2737a9a0160f4.jpg",
@@ -117,12 +117,12 @@
     "static/media/slick.ttf": "/sportswearmanufacturing/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/sportswearmanufacturing/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sportswearmanufacturing/index.html",
-    "main.bd6f1aed.css.map": "/sportswearmanufacturing/static/css/main.bd6f1aed.css.map",
+    "main.6437b4d3.css.map": "/sportswearmanufacturing/static/css/main.6437b4d3.css.map",
     "main.c7e235c0.js.map": "/sportswearmanufacturing/static/js/main.c7e235c0.js.map",
     "453.8c8916f0.chunk.js.map": "/sportswearmanufacturing/static/js/453.8c8916f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd6f1aed.css",
+    "static/css/main.6437b4d3.css",
     "static/js/main.c7e235c0.js"
   ]
 }
